@@ -4,8 +4,8 @@
 ## I’m currently learning C and C++
 
 # How to reach me: 
-- dryanvallik.gh@yahoo.com
-- u/DevXusYT
+- Email: dryanvallik.gh@yahoo.com
+- Reddit: u/DryanVallik
 
 I use Arch btw
 
